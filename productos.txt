@@ -1,0 +1,20 @@
+A2,Pluma,50,200
+B7,Borrador,4,500
+C14,Computadora,8000,20
+E31,Cargador,20,35
+Q1,Galletas,15,700
+E5,Maruchan,22,347
+D9,Licuado,21.2,73
+F4,Coca-cola,32.7,53
+L2,Gusanitos,20,143
+G9,Pokis,36,128
+C9,Papas,23.2,49
+L2,Agua,15.23,77
+N3,Licuado,27,247
+S8,Chocolates,15,329
+Z3,Sadwich,18,59
+K6,Hamburguesa,35,40
+W1,Quesadillas,12,87
+Y5,Fideos, 8.5,53
+P1,Nieve, 39.9,189
+N4,Paletas,27, 212
